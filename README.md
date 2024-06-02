@@ -17,4 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=on1force&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### Stats n Stuff
-![](https://github-contributor-stats.vercel.app/api?username=on1force&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true) ![on1force's Streak](https://github-readme-streak-stats.herokuapp.com/?user=on1force&theme=tokyonight&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=on1force&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true) ![on1force's Streak](https://github-readme-streak-stats.herokuapp.com/?user=on1force&theme=tokyonight&hide_border=true) [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=on1force)](https://github.com/LordDashMe/github-contribution-stats/)
