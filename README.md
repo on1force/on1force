@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.tenor.com/Z2kiUSlrl00AAAAi/fox-crystalline-fox.gif"/>
+</p>
 <h1 align="center"> ON1FORCE DEN </h1>
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&random=false&width=550&lines=+Currently+away+navigating+the+WEB3+Sea+of+frogs+and+apes.+" alt="Typing SVG" /></a>
 
